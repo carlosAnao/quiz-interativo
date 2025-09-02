@@ -1,12 +1,12 @@
 const perguntas = [
     {
-        enunciado: "pergunta 1",  //a pergunta
+        enunciado: "pergunta 1",  
         alternativas: [
             {
-                texto: "nike", //primeira alternativa
+                texto: "nike", 
                 afirmacao: [
-                    "você tem bom gosto", //comentário para a resposta
-                    "afirmação 2"        //segundo comentário
+                    "você tem bom gosto", 
+                    "afirmação 2"        
                 ],
             },
             {
