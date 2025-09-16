@@ -1,12 +1,12 @@
 export const perguntas = [
     {
-        enunciado: "Você prefere nike ou adidas?",  //a pergunta
+        enunciado: "Você prefere nike ou adidas?",  
         alternativas: [
             {
-                texto: "nike", //primeira alternativa
+                texto: "nike", 
                 afirmacao: [
-                    "você tem bom gosto", //comentário para a resposta
-                    "afirmação 2"        //segundo comentário
+                    "você tem bom gosto", 
+                    "afirmação 2"        
                 ],
                 proxima: 1,
             },
@@ -87,7 +87,7 @@ export const perguntas = [
         enunciado: "pergunta 5",
         alternativas: [
             {
-                texto: "nike",
+                texto: "",
                 afirmacao: [
                     "você tem bom gosto",
                     "afirmação 2"
