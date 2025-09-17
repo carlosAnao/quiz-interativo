@@ -80,9 +80,9 @@ export const perguntas = [
         enunciado: "Vocé é homem ou mulher",
         alternativas: [
             {
-                texto: "Vocé é homem",
+                texto: "homem",
                 afirmacao: [
-                    "você tem bom gosto"
+                    "Foda"
                 ],
                 proxima: 0
             },
