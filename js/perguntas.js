@@ -8,7 +8,7 @@ export const perguntas = [
                     "você tem gosto duvidoso", 
                     "Você gosta de carro com bateria de iphone"        
                 ],
-                proxima: 1,
+                proxima: 4,
             },
             {
                 texto: "Gasolina",
@@ -20,83 +20,76 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "",
+        enunciado: "Voce gosta de carro classico ou moderno",
         alternativas: [
             {
-                texto: "nike",
+                texto: "Moderno",
                 afirmacao: [
-                    "você tem bom gosto",
-                    "afirmação 2"
+                    "Fã de BYD"
                 ],
-                proxima: 2,
+                proxima: 5,
             },
             {
-                texto: "adidas",
+                texto: "Classico",
                 afirmacao: [
-                    "você é vaiado",
-                    "você não sabe escolher"
+                    "você tem um bom gosto"
                 ],
                 proxima: 2,
             }
         ]
     },
     {
-        enunciado: "pergunta 4",
+        enunciado: "Dodge charger 1970 ou Maverick ",
         alternativas: [
             {
-                texto: "nike",
+                texto: "Maverick",
                 afirmacao: [
-                    "você tem bom gosto",
-                    "afirmação 2"
+                    "você é foda"
                 ],
                 proxima: 3,
             },
             {
-                texto: "adidas",
+                texto: "BYD",
                 afirmacao: [
-                    "você é vaiado",
-                    "você não sabe escolher"
+                    "você é viado"
                 ],
                 proxima: 3,
             }
         ]
     },
     {
-        enunciado: "Você prefere nike ou adidas?",
+        enunciado: "Strognoff ou banoffe",
         alternativas: [
             {
-                texto: "nike",
+                texto: "Strognoff",
                 afirmacao: [
-                    "você tem bom gosto",
-                    "afirmação 2"
+                    "você é homem de verdade"
                 ],
                 proxima: 4,
             },
             {
-                texto: "adidas",
+                texto: "Banoffe",
                 afirmacao: [
-                    "você é vaiado",
-                    "você não sabe escolher"
+                    "você é mimado"
                 ],
                 proxima: 4,
             }
         ]
     },
     {
-        enunciado: "pergunta 5",
+        enunciado: "Vocé é homem ou mulher",
         alternativas: [
             {
-                texto: "",
+                texto: "Vocé é homem",
                 afirmacao: [
-                    "você tem bom gosto",
-                    "afirmação 2"
+                    "você tem bom gosto"
                 ],
+                proxima: 0
             },
             {
-                texto: "adidas",
+                texto: "Mulher",
                 afirmacao: [
-                    "você é vaiado",
-                    "você não sabe escolher"
+                    "Top"
                 ],
             }
         ]
