@@ -4,8 +4,7 @@ export const perguntas = [
         alternativas: [
             {
                 texto: "Elétrico", 
-                afirmacao: [
-                    "você tem gosto duvidoso", 
+                afirmacao: [ 
                     "Você gosta de carro com bateria de iphone"        
                 ],
                 proxima: 4,
