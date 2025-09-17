@@ -3,7 +3,7 @@ export const perguntas = [
         enunciado: "Você prefere carro eletrico ou gasolina",  
         alternativas: [
             {
-                texto: "Eletrico", 
+                texto: "Elétrico", 
                 afirmacao: [
                     "você tem gosto duvidoso", 
                     "Você gosta de carro com bateria de iphone"        
