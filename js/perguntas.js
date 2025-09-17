@@ -27,7 +27,7 @@ export const perguntas = [
                 afirmacao: [
                     "Fã de BYD"
                 ],
-                proxima: 5,
+                proxima: 4,
             },
             {
                 texto: "Classico",
@@ -53,7 +53,7 @@ export const perguntas = [
                 afirmacao: [
                     "você é viado"
                 ],
-                proxima: 3,
+                proxima: 4,
             }
         ]
     },
